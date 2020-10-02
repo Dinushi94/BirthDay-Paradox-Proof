@@ -13,7 +13,7 @@ def NLLFunc():
    print("Test") 
 
 def NLLFunc():
-   print("Test")
+   print("Test");;
    
 def RDG():
     DAYS_ARR.append(random.randrange(1, 365))
