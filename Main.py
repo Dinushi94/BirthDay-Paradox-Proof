@@ -23,7 +23,8 @@ def ARPRO(DAYS_ARR):
     DAYS_ARR.sort()
     DAYS_ARR = Counter(DAYS_ARR)
     DAYS_ARR = DAYS_ARR.most_common(1)
-    return DAYS_ARR[0]
+    return DAYS_ARR[0]3
+
 
 def RUNNER():
     for x in range(50):
